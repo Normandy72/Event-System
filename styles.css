@@ -1,0 +1,11 @@
+.error {
+    color: red;
+    font-weight: bold;
+    display: none;
+  }
+  
+  .loading-icon {
+    position: absolute;
+    left: calc(100% / 2);
+    top: 10px;
+  }
